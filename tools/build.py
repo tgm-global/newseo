@@ -274,6 +274,7 @@ def page(path, title, desc, body, kws=None, crumbs=None, schemas=None, c=None, p
 <meta name="author" content="{E(BRAND)}">
 <meta name="theme-color" content="#0b1b3a">
 <link rel="canonical" href="{canon}">
+<link rel="alternate" type="text/markdown" title="llms.txt" href="{SITE}/llms.txt">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="{E(BRAND)}">
 <meta property="og:title" content="{E(title)}">
@@ -849,11 +850,48 @@ def write_sitemap():
     open(os.path.join(ROOT, ".nojekyll"), "w").write("")
 
 
+def write_llms():
+    """Writes llms.txt (LLM-friendly site summary). Every page links to it from <head>."""
+    L = [f"# {BRAND}", "",
+         f"> {BRAND} is an SEO and lead generation agency for businesses in the United Kingdom, the United States and India. "
+         "It provides local SEO, ecommerce SEO, technical SEO, on-page SEO, content marketing, link building, SEO audits and lead generation, "
+         "with dedicated pages for industries, sub-categories, cities and city + industry combinations in each country.", "",
+         f"The site has about {len(ALL_PAGES)} static pages. URL patterns: /{{country}}/ (usa, uk, india), /{{country}}/seo-services-for-{{industry}}/, "
+         "/{country}/seo-services-for-{industry}/seo-for-{sub-category}/, /{country}/{city}/ and /{country}/{city}/seo-services-for-{industry}/. "
+         f"Contact: {PHONE} (call or WhatsApp), {EMAIL}. Free SEO audit available. Language: English.", "",
+         "## Core pages",
+         f"- [Home]({SITE}/): SEO services and lead generation for UK, USA and India",
+         f"- [All services]({SITE}/services/): Overview of all SEO services",
+         f"- [Industries]({SITE}/industries/): SEO by industry",
+         f"- [Locations]({SITE}/locations/): SEO by city",
+         f"- [SEO services near me]({SITE}/seo-services-near-me/): Location-based local SEO page",
+         f"- [About]({SITE}/about/): About the agency",
+         f"- [Contact and free SEO audit]({SITE}/contact/): Call, WhatsApp, email or form", "",
+         "## Services"]
+    for sv in SERVICES:
+        L.append(f"- [{sv['name']}]({SITE}/{p_service(sv['slug'])}): {sv['short']}")
+    for k, c in COUNTRIES.items():
+        L += ["", f"## {c['name']}", f"- [SEO services in {c['name']}]({SITE}/{p_country(k)}): Country hub with industries and cities", "",
+              f"### {c['short']} industries"]
+        for s in c["ind"]:
+            i = ind_info(k, s)
+            L.append(f"- [SEO services for {i['p']}]({SITE}/{p_ind(k, s)}): Includes " + ", ".join(i["subs"][:3]) + " and more")
+        L += ["", f"### {c['short']} cities"]
+        for city in CITIES[k]:
+            L.append(f"- [SEO services in {city[0]}]({SITE}/{p_city(k, city[0])}): {city[1]}")
+    L += ["", "## Optional",
+          f"- [HTML site map]({SITE}/site-map/): Full list of pages",
+          f"- [XML sitemap]({SITE}/sitemap.xml)",
+          f"- [Privacy Policy]({SITE}/privacy-policy/)",
+          f"- [Terms of Service]({SITE}/terms/)"]
+    open(os.path.join(ROOT, "llms.txt"), "w", encoding="utf-8").write("\n".join(L) + "\n")
+
+
 def clean():
     for name in ["usa", "uk", "india", "services", "industries", "locations", "about", "contact", "seo-services-near-me",
                  "privacy-policy", "terms", "site-map", "__404__"]:
         shutil.rmtree(os.path.join(ROOT, name), ignore_errors=True)
-    for f in ["index.html", "404.html", "sitemap.xml", "robots.txt"]:
+    for f in ["index.html", "404.html", "sitemap.xml", "robots.txt", "llms.txt"]:
         p = os.path.join(ROOT, f)
         if os.path.exists(p):
             os.remove(p)
@@ -883,6 +921,7 @@ def main():
     build_html_sitemap()
     build_404()
     write_sitemap()
+    write_llms()
     print(f"Built {len(ALL_PAGES)} pages; sitemap has {len(SITEMAP)} URLs. Site URL: {SITE}")
 
 

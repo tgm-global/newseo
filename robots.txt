@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yourusername.github.io/truegainmedia/sitemap.xml
+Sitemap: https://www.truegainmedia.online/sitemap.xml
+llms: https://www.truegainmedia.online/llms.txt

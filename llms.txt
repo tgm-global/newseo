@@ -1,0 +1,158 @@
+# True Gain Media
+
+> True Gain Media is an SEO and lead generation agency for businesses in the United Kingdom, the United States and India. It provides local SEO, ecommerce SEO, technical SEO, on-page SEO, content marketing, link building, SEO audits and lead generation, with dedicated pages for industries, sub-categories, cities and city + industry combinations in each country.
+
+The site has about 1251 static pages. URL patterns: /{country}/ (usa, uk, india), /{country}/seo-services-for-{industry}/, /{country}/seo-services-for-{industry}/seo-for-{sub-category}/, /{country}/{city}/ and /{country}/{city}/seo-services-for-{industry}/. Contact: +91 8510813358 (call or WhatsApp), truegainmedia@gmail.com. Free SEO audit available. Language: English.
+
+## Core pages
+- [Home](https://yourusername.github.io/truegainmedia/): SEO services and lead generation for UK, USA and India
+- [All services](https://yourusername.github.io/truegainmedia/services/): Overview of all SEO services
+- [Industries](https://yourusername.github.io/truegainmedia/industries/): SEO by industry
+- [Locations](https://yourusername.github.io/truegainmedia/locations/): SEO by city
+- [SEO services near me](https://yourusername.github.io/truegainmedia/seo-services-near-me/): Location-based local SEO page
+- [About](https://yourusername.github.io/truegainmedia/about/): About the agency
+- [Contact and free SEO audit](https://yourusername.github.io/truegainmedia/contact/): Call, WhatsApp, email or form
+
+## Services
+- [Local SEO Services](https://yourusername.github.io/truegainmedia/services/local-seo/): Rank in Google Maps and local search to win customers in your city.
+- [Ecommerce SEO Services](https://yourusername.github.io/truegainmedia/services/ecommerce-seo/): Grow organic traffic and sales for your online store.
+- [Technical SEO Services](https://yourusername.github.io/truegainmedia/services/technical-seo/): Fix the crawling, indexing and speed issues that hold rankings back.
+- [On-Page SEO & Content Optimization](https://yourusername.github.io/truegainmedia/services/on-page-seo/): Optimize titles, headings, content and internal links for target keywords.
+- [Link Building & Digital PR](https://yourusername.github.io/truegainmedia/services/link-building/): Earn quality backlinks that build authority and trust.
+- [SEO Content Marketing](https://yourusername.github.io/truegainmedia/services/content-marketing/): Create content that ranks, educates and converts.
+- [SEO Audit & Strategy](https://yourusername.github.io/truegainmedia/services/seo-audit/): A clear, prioritised roadmap for your search growth.
+- [SEO Lead Generation Services](https://yourusername.github.io/truegainmedia/services/lead-generation/): Turn organic traffic into calls, forms and booked appointments.
+
+## United States
+- [SEO services in United States](https://yourusername.github.io/truegainmedia/usa/): Country hub with industries and cities
+
+### USA industries
+- [SEO services for tour operators](https://yourusername.github.io/truegainmedia/usa/seo-services-for-tour-operators/): Includes Adventure Tour Operators, Luxury Travel Companies, Honeymoon & Wedding Travel Planners and more
+- [SEO services for hotels and resorts](https://yourusername.github.io/truegainmedia/usa/seo-services-for-hotels-resorts/): Includes Boutique Hotels, Luxury Resorts, Bed & Breakfasts and more
+- [SEO services for restaurants and cafes](https://yourusername.github.io/truegainmedia/usa/seo-services-for-restaurants/): Includes Fine Dining Restaurants, Cafes & Bakeries, Quick-Service Restaurants and more
+- [SEO services for real estate agents](https://yourusername.github.io/truegainmedia/usa/seo-services-for-real-estate-agents/): Includes Residential Real Estate Agents, Commercial Real Estate Brokers, Property Developers and more
+- [SEO services for law firms](https://yourusername.github.io/truegainmedia/usa/seo-services-for-law-firms/): Includes Personal Injury Lawyers, Family Law Attorneys, Immigration Lawyers and more
+- [SEO services for dentists and dental clinics](https://yourusername.github.io/truegainmedia/usa/seo-services-for-dentists/): Includes General Dentists, Cosmetic Dentists, Orthodontists and more
+- [SEO services for healthcare providers](https://yourusername.github.io/truegainmedia/usa/seo-services-for-healthcare-providers/): Includes Private Clinics, Dermatology Clinics, Physiotherapy Centres and more
+- [SEO services for ecommerce stores](https://yourusername.github.io/truegainmedia/usa/seo-services-for-ecommerce-stores/): Includes Fashion & Apparel Stores, Electronics Retailers, Home & Furniture Stores and more
+- [SEO services for SaaS companies](https://yourusername.github.io/truegainmedia/usa/seo-services-for-saas-companies/): Includes B2B SaaS Platforms, Fintech Software Companies, HR Tech Companies and more
+- [SEO services for home service companies](https://yourusername.github.io/truegainmedia/usa/seo-services-for-home-services/): Includes Plumbers, Electricians, HVAC Contractors and more
+- [SEO services for roofing contractors](https://yourusername.github.io/truegainmedia/usa/seo-services-for-roofing-contractors/): Includes Residential Roofers, Commercial Roofing Contractors, Roof Repair Specialists and more
+- [SEO services for solar installers](https://yourusername.github.io/truegainmedia/usa/seo-services-for-solar-installers/): Includes Residential Solar Installers, Commercial Solar Companies, Battery Storage Installers and more
+- [SEO services for gyms and fitness studios](https://yourusername.github.io/truegainmedia/usa/seo-services-for-fitness-gyms/): Includes Gyms & Health Clubs, Yoga Studios, Personal Trainers and more
+- [SEO services for accountants and CPAs](https://yourusername.github.io/truegainmedia/usa/seo-services-for-accountants-cpas/): Includes Tax Preparation Firms, Bookkeeping Services, Payroll Providers and more
+
+### USA cities
+- [SEO services in New York](https://yourusername.github.io/truegainmedia/usa/new-york/): New York
+- [SEO services in Los Angeles](https://yourusername.github.io/truegainmedia/usa/los-angeles/): California
+- [SEO services in Chicago](https://yourusername.github.io/truegainmedia/usa/chicago/): Illinois
+- [SEO services in Houston](https://yourusername.github.io/truegainmedia/usa/houston/): Texas
+- [SEO services in Phoenix](https://yourusername.github.io/truegainmedia/usa/phoenix/): Arizona
+- [SEO services in Philadelphia](https://yourusername.github.io/truegainmedia/usa/philadelphia/): Pennsylvania
+- [SEO services in San Antonio](https://yourusername.github.io/truegainmedia/usa/san-antonio/): Texas
+- [SEO services in San Diego](https://yourusername.github.io/truegainmedia/usa/san-diego/): California
+- [SEO services in Dallas](https://yourusername.github.io/truegainmedia/usa/dallas/): Texas
+- [SEO services in San Jose](https://yourusername.github.io/truegainmedia/usa/san-jose/): California
+- [SEO services in Austin](https://yourusername.github.io/truegainmedia/usa/austin/): Texas
+- [SEO services in Jacksonville](https://yourusername.github.io/truegainmedia/usa/jacksonville/): Florida
+- [SEO services in Fort Worth](https://yourusername.github.io/truegainmedia/usa/fort-worth/): Texas
+- [SEO services in Columbus](https://yourusername.github.io/truegainmedia/usa/columbus/): Ohio
+- [SEO services in Charlotte](https://yourusername.github.io/truegainmedia/usa/charlotte/): North Carolina
+- [SEO services in Indianapolis](https://yourusername.github.io/truegainmedia/usa/indianapolis/): Indiana
+- [SEO services in Seattle](https://yourusername.github.io/truegainmedia/usa/seattle/): Washington
+- [SEO services in Denver](https://yourusername.github.io/truegainmedia/usa/denver/): Colorado
+- [SEO services in Miami](https://yourusername.github.io/truegainmedia/usa/miami/): Florida
+- [SEO services in Atlanta](https://yourusername.github.io/truegainmedia/usa/atlanta/): Georgia
+
+## United Kingdom
+- [SEO services in United Kingdom](https://yourusername.github.io/truegainmedia/uk/): Country hub with industries and cities
+
+### UK industries
+- [SEO services for tour operators](https://yourusername.github.io/truegainmedia/uk/seo-services-for-tour-operators/): Includes Adventure Tour Operators, Luxury Travel Companies, Honeymoon & Wedding Travel Planners and more
+- [SEO services for hotels and resorts](https://yourusername.github.io/truegainmedia/uk/seo-services-for-hotels-resorts/): Includes Boutique Hotels, Luxury Resorts, Bed & Breakfasts and more
+- [SEO services for restaurants and cafes](https://yourusername.github.io/truegainmedia/uk/seo-services-for-restaurants/): Includes Fine Dining Restaurants, Cafes & Bakeries, Quick-Service Restaurants and more
+- [SEO services for estate agents](https://yourusername.github.io/truegainmedia/uk/seo-services-for-estate-agents/): Includes Residential Sales Agents, Lettings Agents, Commercial Property Agents and more
+- [SEO services for solicitors](https://yourusername.github.io/truegainmedia/uk/seo-services-for-solicitors/): Includes Conveyancing Solicitors, Family Law Solicitors, Employment Solicitors and more
+- [SEO services for dentists and dental clinics](https://yourusername.github.io/truegainmedia/uk/seo-services-for-dentists/): Includes General Dentists, Cosmetic Dentists, Orthodontists and more
+- [SEO services for healthcare providers](https://yourusername.github.io/truegainmedia/uk/seo-services-for-healthcare-providers/): Includes Private Clinics, Dermatology Clinics, Physiotherapy Centres and more
+- [SEO services for ecommerce stores](https://yourusername.github.io/truegainmedia/uk/seo-services-for-ecommerce-stores/): Includes Fashion & Apparel Stores, Electronics Retailers, Home & Furniture Stores and more
+- [SEO services for SaaS companies](https://yourusername.github.io/truegainmedia/uk/seo-services-for-saas-companies/): Includes B2B SaaS Platforms, Fintech Software Companies, HR Tech Companies and more
+- [SEO services for home service companies](https://yourusername.github.io/truegainmedia/uk/seo-services-for-home-services/): Includes Plumbers, Electricians, HVAC Contractors and more
+- [SEO services for solar installers](https://yourusername.github.io/truegainmedia/uk/seo-services-for-solar-installers/): Includes Residential Solar Installers, Commercial Solar Companies, Battery Storage Installers and more
+- [SEO services for gyms and fitness studios](https://yourusername.github.io/truegainmedia/uk/seo-services-for-fitness-gyms/): Includes Gyms & Health Clubs, Yoga Studios, Personal Trainers and more
+- [SEO services for accountants](https://yourusername.github.io/truegainmedia/uk/seo-services-for-accountants-cpas/): Includes Tax Preparation Firms, Bookkeeping Services, Payroll Providers and more
+- [SEO services for financial advisers and mortgage brokers](https://yourusername.github.io/truegainmedia/uk/seo-services-for-financial-advisors/): Includes Mortgage Brokers, Independent Financial Advisers, Insurance Brokers and more
+
+### UK cities
+- [SEO services in London](https://yourusername.github.io/truegainmedia/uk/london/): England
+- [SEO services in Birmingham](https://yourusername.github.io/truegainmedia/uk/birmingham/): England
+- [SEO services in Manchester](https://yourusername.github.io/truegainmedia/uk/manchester/): England
+- [SEO services in Leeds](https://yourusername.github.io/truegainmedia/uk/leeds/): England
+- [SEO services in Glasgow](https://yourusername.github.io/truegainmedia/uk/glasgow/): Scotland
+- [SEO services in Liverpool](https://yourusername.github.io/truegainmedia/uk/liverpool/): England
+- [SEO services in Sheffield](https://yourusername.github.io/truegainmedia/uk/sheffield/): England
+- [SEO services in Bristol](https://yourusername.github.io/truegainmedia/uk/bristol/): England
+- [SEO services in Edinburgh](https://yourusername.github.io/truegainmedia/uk/edinburgh/): Scotland
+- [SEO services in Leicester](https://yourusername.github.io/truegainmedia/uk/leicester/): England
+- [SEO services in Cardiff](https://yourusername.github.io/truegainmedia/uk/cardiff/): Wales
+- [SEO services in Coventry](https://yourusername.github.io/truegainmedia/uk/coventry/): England
+- [SEO services in Nottingham](https://yourusername.github.io/truegainmedia/uk/nottingham/): England
+- [SEO services in Newcastle](https://yourusername.github.io/truegainmedia/uk/newcastle/): England
+- [SEO services in Belfast](https://yourusername.github.io/truegainmedia/uk/belfast/): Northern Ireland
+- [SEO services in Brighton](https://yourusername.github.io/truegainmedia/uk/brighton/): England
+- [SEO services in Southampton](https://yourusername.github.io/truegainmedia/uk/southampton/): England
+- [SEO services in Bradford](https://yourusername.github.io/truegainmedia/uk/bradford/): England
+- [SEO services in Hull](https://yourusername.github.io/truegainmedia/uk/hull/): England
+- [SEO services in Plymouth](https://yourusername.github.io/truegainmedia/uk/plymouth/): England
+
+## India
+- [SEO services in India](https://yourusername.github.io/truegainmedia/india/): Country hub with industries and cities
+
+### India industries
+- [SEO services for tour and travels companies](https://yourusername.github.io/truegainmedia/india/seo-services-for-tour-and-travels/): Includes Domestic Tour Package Providers, International Tour Package Providers, Visa & Ticketing Agents and more
+- [SEO services for hotels and resorts](https://yourusername.github.io/truegainmedia/india/seo-services-for-hotels-resorts/): Includes Boutique Hotels, Luxury Resorts, Bed & Breakfasts and more
+- [SEO services for restaurants and cafes](https://yourusername.github.io/truegainmedia/india/seo-services-for-restaurants/): Includes Fine Dining Restaurants, Cafes & Bakeries, Quick-Service Restaurants and more
+- [SEO services for real estate agents](https://yourusername.github.io/truegainmedia/india/seo-services-for-real-estate-agents/): Includes Residential Real Estate Agents, Commercial Real Estate Brokers, Property Developers and more
+- [SEO services for coaching institutes](https://yourusername.github.io/truegainmedia/india/seo-services-for-coaching-institutes/): Includes IIT-JEE & NEET Coaching Centres, UPSC & Civil Services Academies, Banking & SSC Coaching Centres and more
+- [SEO services for chartered accountants](https://yourusername.github.io/truegainmedia/india/seo-services-for-chartered-accountants/): Includes GST Consultants, Income Tax Consultants, Company Registration Experts and more
+- [SEO services for clinics and healthcare providers](https://yourusername.github.io/truegainmedia/india/seo-services-for-healthcare-providers/): Includes Private Clinics, Dermatology Clinics, Physiotherapy Centres and more
+- [SEO services for dentists and dental clinics](https://yourusername.github.io/truegainmedia/india/seo-services-for-dentists/): Includes General Dentists, Cosmetic Dentists, Orthodontists and more
+- [SEO services for ecommerce stores](https://yourusername.github.io/truegainmedia/india/seo-services-for-ecommerce-stores/): Includes Fashion & Apparel Stores, Electronics Retailers, Home & Furniture Stores and more
+- [SEO services for IT services companies](https://yourusername.github.io/truegainmedia/india/seo-services-for-it-services/): Includes Software Development Companies, Web Design Agencies, Mobile App Developers and more
+- [SEO services for exporters and manufacturers](https://yourusername.github.io/truegainmedia/india/seo-services-for-exporters/): Includes Textile & Garment Exporters, Handicraft Exporters, Spice & Food Exporters and more
+- [SEO services for jewellers](https://yourusername.github.io/truegainmedia/india/seo-services-for-jewellers/): Includes Gold Jewellers, Diamond Jewellers, Bridal Jewellery Stores and more
+- [SEO services for wedding planners](https://yourusername.github.io/truegainmedia/india/seo-services-for-wedding-planners/): Includes Destination Wedding Planners, Luxury Wedding Planners, Wedding Photographers and more
+- [SEO services for immigration consultants](https://yourusername.github.io/truegainmedia/india/seo-services-for-immigration-consultants/): Includes Study Abroad Consultants, Work Visa Consultants, PR & Migration Consultants and more
+
+### India cities
+- [SEO services in Mumbai](https://yourusername.github.io/truegainmedia/india/mumbai/): Maharashtra
+- [SEO services in Delhi](https://yourusername.github.io/truegainmedia/india/delhi/): Delhi
+- [SEO services in Bengaluru](https://yourusername.github.io/truegainmedia/india/bengaluru/): Karnataka
+- [SEO services in Hyderabad](https://yourusername.github.io/truegainmedia/india/hyderabad/): Telangana
+- [SEO services in Ahmedabad](https://yourusername.github.io/truegainmedia/india/ahmedabad/): Gujarat
+- [SEO services in Chennai](https://yourusername.github.io/truegainmedia/india/chennai/): Tamil Nadu
+- [SEO services in Kolkata](https://yourusername.github.io/truegainmedia/india/kolkata/): West Bengal
+- [SEO services in Surat](https://yourusername.github.io/truegainmedia/india/surat/): Gujarat
+- [SEO services in Pune](https://yourusername.github.io/truegainmedia/india/pune/): Maharashtra
+- [SEO services in Jaipur](https://yourusername.github.io/truegainmedia/india/jaipur/): Rajasthan
+- [SEO services in Lucknow](https://yourusername.github.io/truegainmedia/india/lucknow/): Uttar Pradesh
+- [SEO services in Kanpur](https://yourusername.github.io/truegainmedia/india/kanpur/): Uttar Pradesh
+- [SEO services in Nagpur](https://yourusername.github.io/truegainmedia/india/nagpur/): Maharashtra
+- [SEO services in Indore](https://yourusername.github.io/truegainmedia/india/indore/): Madhya Pradesh
+- [SEO services in Thane](https://yourusername.github.io/truegainmedia/india/thane/): Maharashtra
+- [SEO services in Bhopal](https://yourusername.github.io/truegainmedia/india/bhopal/): Madhya Pradesh
+- [SEO services in Visakhapatnam](https://yourusername.github.io/truegainmedia/india/visakhapatnam/): Andhra Pradesh
+- [SEO services in Patna](https://yourusername.github.io/truegainmedia/india/patna/): Bihar
+- [SEO services in Vadodara](https://yourusername.github.io/truegainmedia/india/vadodara/): Gujarat
+- [SEO services in Ghaziabad](https://yourusername.github.io/truegainmedia/india/ghaziabad/): Uttar Pradesh
+- [SEO services in Ludhiana](https://yourusername.github.io/truegainmedia/india/ludhiana/): Punjab
+- [SEO services in Agra](https://yourusername.github.io/truegainmedia/india/agra/): Uttar Pradesh
+- [SEO services in Nashik](https://yourusername.github.io/truegainmedia/india/nashik/): Maharashtra
+- [SEO services in Chandigarh](https://yourusername.github.io/truegainmedia/india/chandigarh/): Chandigarh
+- [SEO services in Noida](https://yourusername.github.io/truegainmedia/india/noida/): Uttar Pradesh
+
+## Optional
+- [HTML site map](https://yourusername.github.io/truegainmedia/site-map/): Full list of pages
+- [XML sitemap](https://yourusername.github.io/truegainmedia/sitemap.xml)
+- [Privacy Policy](https://yourusername.github.io/truegainmedia/privacy-policy/)
+- [Terms of Service](https://yourusername.github.io/truegainmedia/terms/)
