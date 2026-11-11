@@ -2,4 +2,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://www.truegainmedia.online/sitemap.xml
-llms: https://www.truegainmedia.online/llms.txt

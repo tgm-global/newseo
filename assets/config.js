@@ -1,6 +1,6 @@
 window.SITE_CONFIG = {
   "_help": "EDIT ONLY THIS FILE to change brand, logo, phone, WhatsApp, email, form key, testimonials. Keep valid JSON (double quotes, no trailing commas). After changing brandName or siteUrl, run: python3 tools/build.py (contact details update instantly without a rebuild).",
-  "siteUrl": "https://yourusername.github.io/truegainmedia",
+  "siteUrl": "https://www.truegainmedia.online",
   "brandName": "True Gain Media",
   "brandTagline": "SEO & Lead Generation Agency",
   "logoImage": "",
